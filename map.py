@@ -1,4 +1,5 @@
-# Self Driving Car
+# Self Driving Car Simulation Environment
+## CREDIT: John Kernson for implementation of this file
 
 # Importing the libraries
 import numpy as np
